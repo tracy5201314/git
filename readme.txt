@@ -8,3 +8,5 @@ Beautiful English sentence(唯美的英文句子)
   中文：我们都是“远视眼”，模糊了离我们最近的幸福。
   英文：Today you do things people will not do,tomorrow you will do things people can not do.
   中文：你今天做别人不愿做的事，明天就能做别人做不到的事。
+  英文：
+  中文：
