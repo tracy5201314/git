@@ -12,3 +12,5 @@ Beautiful English sentence(唯美的英文句子)
   中文：忘不掉的是回忆，继续的是生活，错过的，就当是路过。
   英文：Life doesn't just happen to you; you receive everything in your life based on what you've given.
   中文：发生的在你身上的一切都不是偶然。你从生活里得到什么，源于你给予了什么。
+  英文：Tears are the words which the heart can not say.
+  中文：眼泪是心无法诉说的话语。
